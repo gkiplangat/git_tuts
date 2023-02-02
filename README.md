@@ -1,3 +1,2 @@
-# git_tuts
-
-Added some text
+Second line
+Updated line
