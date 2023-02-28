@@ -13,6 +13,7 @@ int main(void)
 		*p = 402;
 		printf("%d\n", n);
 	}
+
 	return (0);
 }
 
