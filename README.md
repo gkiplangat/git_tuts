@@ -3,6 +3,6 @@
 
 
 #### Pointers
-* change_pointer.c
+* [change_pointer.c](https://github.com/gkiplangat/git_tuts/blob/main/change_pointer.c)
 This is a c program the execute the following
 
