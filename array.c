@@ -17,4 +17,9 @@ int main(void)
 	nums[4] = 50;
 
 	printf("The value of nums[0]:%d\n", nums[0]);
+	printf("The value of nums[1]:%d\n", nums[1]);
+	printf("The value of nums[2]:%d\n", nums[2]);
+	printf("The value of nums[3]:%d\n", nums[3]);
+	printf("The value of nums[4]:%d\n", nums[4]);
+	return (0);
 }
