@@ -9,10 +9,11 @@
 
 void modify_my_char_var(char *cc, char ccc)
 {
-	printf("The value of c is:%d\n", ccc);
-	printf("The value of *c: %p\n", cc);
+	printf("The value of ccc is:%d\n", ccc);
+	printf("The value of *cc: %p\n", cc);
 	*cc = 'o';
 	ccc = 'l';
+	printf("The value of ccc is:%d\n", ccc);
 }
 
 /**
@@ -32,5 +33,6 @@ int main(void)
 	printf("The address of c is: %p\n", &c);
 	printf("The value of p is: %p\n", p);
 	modify_my_char_var(p, c);
+	printf("The value of c is:%d\n", c);
 	return (0);
 }
